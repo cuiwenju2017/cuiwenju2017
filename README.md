@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cuiwenju
+- 👋 Hello everyone, my name is Wenju Cui, I am an Android application development engineer, I hope to communicate with you about technology.
 
 [My GitHub](https://github.com/cuiwenju2017)
 
